@@ -16,7 +16,7 @@ One million coins per every dollar increase of market value.
 Or per year if the price goes up more than one dollar per year.
  
  - idea - only release up to 10 billion this century as the coin goes up to $1000.
- - Wait, not $1000, $10,000.
+ - Wait, that part is wrong, not $1000. To release 10 billion = a coin at $10,000. ( i left this in for a smile) 
    :- The Math - 75 years left this century. So that is only 75 million new coins released until the year 2100AD.
    Imagine what our technological lives will be like in 75-100 years from now. Food for thought.
    :- Oh, and further to the math, huh, 20 billion treasury coins at 1 million per year (if the coin goes that high).
@@ -68,16 +68,16 @@ We make money by lending money.
  Dividends available through the wallet (which has KYC). It will definately take a few years plus for that one.
  We will also like to open retail outlets in our most popular locations if practical.
     ....    ....    
-     Planetary Bank - 
+    - Planetary Bank - 
    Presale or regular sale funds of the 100 million dollars is small seed financing for the worlds first
-   crowd sourced planetary bank.
+   crowd sourced planetary bank. The worlds first zero layer planetary bank. (which is good for another smile).
    
 Planetary bank? Yeah, anywhere home loans are too expensive, we will enter the market and offer 
 a more affordable option.
 Some places in the world have very low home loan rates. In these nations cryptocurrency holders will use our services more than home loan borrowers.
 
    Some examples of nations with high home loan intrest rates in 2025...
-    - Mexico        11.6%
+     - Mexico        11.6%
      - South Africa  10.5%
      - Brazil        10.4%                             
      - New Zealand    7.1%                         
