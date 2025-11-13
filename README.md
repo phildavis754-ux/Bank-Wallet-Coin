@@ -63,7 +63,7 @@ We make money by lending money.
 ....    ....    
    The Future -
  The ultimate goal is for future earnings of the bank to reach such a level that dividends can be paid to coin holders.
- If or when, let's say when. When we reach the dividend stage. Coin holders can be paid in BC coins.
+ If or when, let's say when for this example. When we reach the dividend stage. Coin holders can be paid in BC coins.
  A Bank Coin (BC coin) will be a stable currency to each nation, eg- BC US, BC UK, BC AU, BC NZ etc.
  Dividends will be available through the wallet (which has KYC). It will definately take a few years plus for that one.
  We will also like to open retail outlets in our most popular locations if practical.
