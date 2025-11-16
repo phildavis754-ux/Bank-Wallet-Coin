@@ -42,7 +42,7 @@ We will release them slowly at 10 cents or above only.
    - online bio-metric hot wallet / bank account / KYC
    - everyday banking wallet card / fiat and crypto linked services.
               - Wallet holders will get annual reports and be informed like shareholders.
-              - Having a wallet is like joining a bank and becoming a member.
+              - Having a wallet is like joining a bank and becoming a member. The best of 'de-fi/ce-fi', that's de-centralised/centralised finance.
 
      The Bank -
   The first 100 million dollars from pre-sale or regular sale are the workhorse engine for revenue growth.
