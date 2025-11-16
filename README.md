@@ -58,15 +58,15 @@ We make money by lending money.
 ...    ...    
    How can we be cheaper at providing home loans?
          -   Crowd Sourced Banking  -
- Buying a coin becomes the money that is lent, profiting the bank and thus the coin.
- Coin holders are considered shareholders.
+ Buying a treasury released coin becomes the money that is lent, profiting the bank and thus the coin.
+ Coin holders are considered shareholders. We will aim for 10% administration and 90% working capital for treasury funds.
 ....    ....    
    The Future -
  The ultimate goal is for future earnings of the bank to reach such a level that dividends can be paid to coin holders.
  If or when, let's say when for this example. When we reach the dividend stage. Coin holders can be paid in BC coins.
  A Bank Coin (BC coin) will be a stable currency to each nation, eg- BC US, BC UK, BC AU, BC NZ etc.
  Dividends will be available through the wallet (which has KYC). It will definately take a few years plus for that one.
- We will also like to open retail outlets in our most popular locations if practical.
+ We will also like to open retail outlets in our most popular locations if practical and sustainable.
     ....    ....    
     - Planetary Bank - 
    Presale or regular sale funds of the 100 million dollars is small seed financing for the worlds first
