@@ -76,7 +76,7 @@ Planetary bank? Yeah, anywhere home loans are too expensive, we will enter the m
 a more affordable option.
 Some places in the world have very low home loan rates. In these nations cryptocurrency holders will use our services more than home loan borrowers.
 
-   Some examples of nations with high home loan intrest rates in 2025...
+   Some examples of nations with high home loan intrest rates in early 2025...
      - Mexico        11.6%
      - South Africa  10.5%
      - Brazil        10.4%                             
