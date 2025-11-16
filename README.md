@@ -83,7 +83,8 @@ Some places in the world have very low home loan rates. In these nations cryptoc
      - New Zealand    7.1%                         
      - Australia      6.7%                         
      - America        6.3%
-.... Bank Wallet Coin = 2% less for your lived in home loan. .. and, 1% less for an investment home loan.
+....
+Bank Wallet Coin = 2% less for your lived in home loan. .. and, 1% less for an investment home loan.
 ...    ...    .
   - What problems does BWC address -    
      - The Wallet - 
