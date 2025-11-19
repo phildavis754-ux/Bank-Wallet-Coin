@@ -40,7 +40,8 @@ We will release them slowly at 10 cents or above only.
 ....    ....
    
    Now, after those fun and games let's find out what this idea is about and is it worth anything.
-   We will put aside future star dates and years to far beyond our own to consider
+   We will put aside future star dates and years to far beyond our own to consider.
+   
    What is Bank Wallet Coin for. ....
 
     The Wallet -
