@@ -70,7 +70,7 @@ When money goes to a country as working capital, it stays there, as well as its 
  Coin holders are considered shareholders. As an estimate, we will aim for 10-20% administration and 80-90% working capital with treasury funds.
 
 Some roles needed, the board of directors if you like. 
-Founder, Executive, Manager, Finance, Security, Compliance, Coustomer Relations and Compliance, International Relations and also casual local staff. 
+Founder, Executive, Manager, Finance, Security, Compliance, Coustomer Relations, International Relations and also casual local staff. 
 Thats a lot of mouths to feed. So, most roles will be casual on call professionals suited to task. 
 ....    ....    
    The Future -
