@@ -1,4 +1,8 @@
+  This is a 'Makers Edition' or Test Net version of a white paper release.  ( for working purposes, fun, enlightenment and insight.)
+  
+
 # Bank-Wallet-Coin -
+
 A cryptocurrency coin that funds/builds the bank wallet.
 The wallet secures your finances for storage and everyday banking.
 The bank becomes a financial institution offering home loans 2% (approximately) cheaper than many nations major banks.
@@ -31,8 +35,10 @@ Ok what's next?
    What if it lists straight away?
 Then, the only BWC coins on market are the ones formated and released from treasury.
 We will release them slowly at 10 cents or above only.
+ 1 billion released at 10 cents or above is a minimum of 100 million dollars raised. 
    That way a solid foundation is formed for the long journey that the BWC enterprize is begining.
 ....    ....
+   
    Now, after those fun and games let's find out what this idea is about and is it worth anything.
    We will put aside future star dates and years to far beyond our own to consider
    What is Bank Wallet Coin for. ....
@@ -47,19 +53,25 @@ We will release them slowly at 10 cents or above only.
      The Bank -
   The first 100 million dollars from pre-sale or regular sale are the workhorse engine for revenue growth.
   Compounding yearly to increasse growth projections.
+An estimate of use is approximately 10-20% administration and 80-90% for working capital.
 
    How Does It Work   -   -
-The coin funds / builds the wallet.
-The wallet secures your finances for storage and everyday banking.
+The coin funds / builds the wallet and provides working capital to the bank.
+The wallet secures your finances for storage, loans and everyday banking.
 The bank becomes a financial institution that offers homeloans 2% (approximately) cheaper than many nations major banks.
 Smaller loans and credit cards also possible.
 The banks income secures the coin as a utility based cryptocurrency.
 We make money by lending money.
+When money goes to a country as working capital, it stays there, as well as its profits for as long as we are providing home loans in that area. That way exchange rates are not an issue.
 ...    ...    
    How can we be cheaper at providing home loans?
          -   Crowd Sourced Banking  -
  Buying a treasury released coin becomes the money that is lent, profiting the bank and thus the coin.
- Coin holders are considered shareholders. We will aim for 10% administration and 90% working capital for treasury funds.
+ Coin holders are considered shareholders. As an estimate, we will aim for 10-20% administration and 80-90% working capital with treasury funds.
+
+Some roles needed, the board of directors if you like. 
+Founder, Executive, Manager, Finance, Security, Compliance, Coustomer Relations and Compliance, International Relations and also casual local staff. 
+Thats a lot of mouths to feed. So, most roles will be casual on call professionals suited to task. 
 ....    ....    
    The Future -
  The ultimate goal is for future earnings of the bank to reach such a level that dividends can be paid to coin holders.
@@ -67,6 +79,8 @@ We make money by lending money.
  A Bank Coin (BC coin) will be a stable currency to each nation, eg- BC US, BC UK, BC AU, BC NZ etc.
  Dividends will be available through the wallet (which has KYC). It will definately take a few years plus for that one.
  We will also like to open retail outlets in our most popular locations if practical and sustainable.
+
+ - If in the future, we were to ever feel the need to close our 'electronic doors' and stop trading as a bank. Due to (hopefully) all nations having really  low home lending rates. The foundation/banks exit stratagy will be to colect all working capital and distribute the 'final' dividend to all coin holders. Although, that said, I don't think it will be in our lifetimes. And, a large successful corporation that we may become can possibly transition into another direction to continue operations. Who knows?
     ....    ....    
     - Planetary Bank - 
    Presale or regular sale funds of the 100 million dollars is small seed financing for the worlds first
