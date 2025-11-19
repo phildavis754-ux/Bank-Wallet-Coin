@@ -54,7 +54,6 @@ We will release them slowly at 10 cents or above only.
      The Bank -
   The first 100 million dollars from pre-sale or regular sale are the workhorse engine for revenue growth.
   Compounding yearly to increasse growth projections.
-An estimate of use is approximately 10-20% administration and 80-90% for working capital.
 
    How Does It Work   -   -
 The coin funds / builds the wallet and provides working capital to the bank.
